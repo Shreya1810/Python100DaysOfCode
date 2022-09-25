@@ -19,7 +19,7 @@ print()
 input3 = input("Do you often feel 'Marvelous'?: ")
 if input3 == 'Yes':
   print("Aha! You're Captain Marvel ! Hi!")
-Yes
+
 
 
 
